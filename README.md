@@ -1,10 +1,8 @@
 # Nativeapp
 
-This is a brief description about this native app.
+This is a short description about this native app.
 
-The app is going to be a SIMPLE shoppinglist for people in the average age group. The things this app needs to achive that is some of
-the following things: Big font,simple flow, easy to understand and straight to the point. Also so you can save your list and delete.
-
-The point of this app is to "transfer" the papper shoppinglist to an app.
+The app is going to be a noraml calculator. The app will have the same functions as normally, also maybe some more advanced functions. 
+The ide is to make the layout look alittle bit diffrent. insted of every button beeing on the same page , there will be categories where the user will choose for example "divison" or "devide".
 
 Mikael Riissanen 
