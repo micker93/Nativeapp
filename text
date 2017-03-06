@@ -1,0 +1,41 @@
+
+
+
+
+                      Appide
+
+
+
+Min ide är att skapa en app som man kan använda för att  hålla koll på sin vikt. iden är att layouten ska påminna en del av instagram, alltså ha en in loggning och ett eget bildbibeliotek samt det enkla layouten. Orsaken till att det ska finnas ett bildbibeliotek är att man kan se hur man såg  ut innan. 
+
+P:S bibelioteket är bara ett sätt att spara bilder på sig själv , t.ex för att se hur man såg ut då och hur man ser ut nu. Man behöver inte lägga ut bilder på sig själv, det finns alltså bara där om man vill.
+
+Appen ska även  ha en visuel graf för varje konto(när det kommer) där man kan se hur myckt man har gått ner eller upp. iden är att användaren börjar med att skriva sin start vikt sedan ska användaren skriva in sin vikt kanske 2 veckor efter och då ska grafen dra en linje sedan ska det stå start vikten och då vikten (även så ska en "uppställning" finnas visuelt finns nånstans i grafen) hur mycket man antingen har gått ner eller upp.
+
+
+TL;DR
+Appen ska se modern ut och roligt samt vara för dom som vill hålla reda på sin vikt i en app. Det är själva iden om appen.
+
+
+
+Kravspecifikation
+
+Appen ska ha ett bildbibeliotek.
+
+Appen ska ha en graf.
+
+Appen ska låta användaren redigera/radera bilder och annat.
+
+Appen ska ha en inloggning system.
+
+Appen ska vara rak på sak och så lite knapptryck som möjligt.
+
+
+
+---------------------------------------------------------
+
+Appen ska inte tvinga användaren att ladda upp bilder om hon/han inte vill.
+
+Appen ska inte vara bara för bara en målgrupp.
+
+Appen ska inte vara svår att använda.
